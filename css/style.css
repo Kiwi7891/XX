@@ -142,5 +142,10 @@ th {
 	.item {
 		flex: 100%;
 	}
+/* 	I fix this */
+	.menu_right {
+		float: float;
+	}
+
 }
 
